@@ -2,21 +2,31 @@
   {
     "name": "Oscar",
     "hobby": "Jugar WZ",
+    "age": "24",
+    "address": "Street:  INDEPENDENCIA 4001, STA ROSA, 31050, Chihuahua, Chihuahua"
   },
   {
     "name": "Luis",
     "hobby": "Jugar Apex",
+    "age": "23",
+    "address": " AV PROL MARIANO OTERO NO. 1517 S/N, MARIANO OTERO, 45067, Jalisco, Guadalajara"
   },
   {
     "name": "Alberto",
     "hobby": "Beber",
+    "age": "24",
+    "address": " La Traviata NO. 5212 Cp 64118, Monterrey, Nuevo León"
   },
   {
     "name": "Ivan",
     "hobby": "Tocar la guitarra",
+    "age": "22",
+    "address": "ZARAGOZA OTE NO. 650, CENTRO, 88500, Tamaulipas, Reynosa"
   },
   {
     "name": "Guillermo Rivas",
     "hobby": "Reprobar Alumnos",
-  },
+    "age": "No Data",
+    "address": "20 DE NOVIEMBRE 284 OTE S/N, CENTRO, 91000, Veracruz, Xalapa"
+  }
 ]
